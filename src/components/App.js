@@ -8,7 +8,7 @@ import Generate from './Generate';
 function App() {
   return (
     <div className='App'>
-      {/* <SideSquares /> */}
+      <SideSquares />
       <Clipboard />
       <Title />
       <Base />
